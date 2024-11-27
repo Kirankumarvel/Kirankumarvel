@@ -61,10 +61,6 @@ Here are the technologies I use and love:
 - **Operating System**: Linux
 - **Languages**: Python
 
-![Tech Stack](https://img.shields.io/badge/HTML5-CSS3-Javascript-React-Node.js-Firebase-Bootstrap-green)
-
-
-
 
 
 ## 📊 GitHub Stats
