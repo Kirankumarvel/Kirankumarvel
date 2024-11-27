@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🌐 SEO Consultant, with over 6 years of experience optimizing websites and improving online visibility.
 - 💻 Web3 Enthusiast, passionate about decentralized technologies and blockchain.
-- 📫 Contact me at: [Your Email](mailto:kirankumarvel.work@gmail.com)
+
 
 ### 📫 How to reach me:
 - 📧 Email: [kirankumarvel.work@gmail.com](mailto:kirankumarvel.work@gmail.com)
