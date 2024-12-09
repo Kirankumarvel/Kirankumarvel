@@ -92,4 +92,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub license](https://img.shields.io/github/license/kirankumarvel/repository)
+![GitHub license](https://img.shields.io/github/license/Kirankumarvel/seo-python-automation)
