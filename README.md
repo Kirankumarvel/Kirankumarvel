@@ -10,14 +10,27 @@
 ### 📫 How to reach me:
 - 📧 Email: [kirankumarvel.work@gmail.com](mailto:kirankumarvel.work@gmail.com)
 - 📱 LinkedIn: [Kiran Kumar V](https://www.linkedin.com/in/kirankumarvel/)
-- 
-### 🔭 I’m currently working on...
-- Helping businesses improve their SEO performance and grow organically.
-- Exploring the potential of **Web3** and **NFTs** to transform digital marketing.
 
-### 🌱 I’m currently learning...
-- Diving deeper into **Web3** technologies, including **smart contracts** and **decentralized finance (DeFi)**.
-- Enhancing my **DevOps** skills to integrate development and operations seamlessly.
+
+## 🔥 What I Do
+- **SEO & Digital Marketing** – Helping businesses grow through strategic SEO & content marketing.
+- **DevOps on AWS** – Implementing CI/CD pipelines, infrastructure as code, and cloud automation.
+- **Web Development** – Crafting optimized, user-friendly websites with **WordPress, HTML, CSS, and JavaScript**.
+- **Blockchain & Web3** – Exploring smart contracts and decentralized applications.
+- **Content Creation** – Educating audiences about meditation, tech, and personal growth through YouTube & blogs.
+
+## 🛠️ Tech Stack & Tools
+- **DevOps & Cloud:** AWS (EC2, S3, Lambda, CloudFormation), Docker, Kubernetes, Terraform
+- **SEO & Analytics:** Google Analytics, Google Search Console, Ahrefs, SEMrush, Screaming Frog
+- **Web Development:** HTML, CSS, JavaScript, WordPress, React
+- **Blockchain:** Solidity, Smart Contracts, Ethereum, Ganache
+
+## 📌 Featured Certifications
+- AWS Cloud Technical Essentials
+- DevOps on AWS (Code, Build, Test | Release, Deploy | Operate, Monitor)
+- Advanced SEO & Content Strategy
+
+💡 *"Building, Optimizing, and Automating – One Step at a Time!"* 🚀
 
 ### 💬 Ask me about...
 - Anything related to **SEO**, from keyword research to content strategy and analytics.
