@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 
 # I'm Kiran Kumar V!
@@ -6,11 +7,9 @@
 - 🌐 SEO Consultant, with over 6 years of experience optimizing websites and improving online visibility.
 - 💻 Web3 Enthusiast, passionate about decentralized technologies and blockchain.
 
-
 ### 📫 How to reach me:
 - 📧 Email: [kirankumarvel.work@gmail.com](mailto:kirankumarvel.work@gmail.com)
 - 📱 LinkedIn: [Kiran Kumar V](https://www.linkedin.com/in/kirankumarvel/)
-
 
 ## 🔥 What I Do
 - **SEO & Digital Marketing** – Helping businesses grow through strategic SEO & content marketing.
@@ -24,6 +23,11 @@
 - **SEO & Analytics:** Google Analytics, Google Search Console, Ahrefs, SEMrush, Screaming Frog
 - **Web Development:** HTML, CSS, JavaScript, WordPress, React
 - **Blockchain:** Solidity, Smart Contracts, Ethereum, Ganache
+- **Programming Languages:** Python, JavaScript, Solidity
+- **Databases:** MongoDB, MySQL, SQLite
+- **Version Control:** Git
+- **API Testing:** Postman
+- **Operating Systems:** Linux, Windows
 
 ## 📌 Featured Certifications
 - AWS Cloud Technical Essentials
@@ -48,7 +52,6 @@
 ## 🌟 Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=kirankumarvel&color=blue)
 
-
 ## 🛠️ Languages and Tools
 
 - ![HTML5](https://img.shields.io/badge/HTML5-5E5C5B?style=flat&logo=html5&logoColor=white)
@@ -63,18 +66,15 @@
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-
 Here are the technologies I use and love:
 
-- **Frontend**: HTML5, CSS3, JavaScript,Bootstrap
-- **Backend**: Node.js, 
-- **Database**: MongoDB, MySQL, Firebase
+- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
+- **Backend**: Node.js
+- **Database**: MongoDB, MySQL, Firebase, SQLite
 - **Version Control**: Git
 - **API Testing**: Postman
-- **Operating System**: Linux
-- **Languages**: Python
-
-
+- **Operating System**: Linux, Windows
+- **Languages**: Python, JavaScript, Solidity
 
 ## 📊 GitHub Stats
 
@@ -87,8 +87,6 @@ Here are the technologies I use and love:
 ## 🔥 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirankumarvel&layout=compact&theme=radical)
-
-
 
 <!--
 **Kirankumarvel/Kirankumarvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
