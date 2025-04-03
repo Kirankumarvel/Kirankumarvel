@@ -1,4 +1,6 @@
+Certainly! Here is your profile `README.md` with interactive widgets and badges:
 
+```markdown
 ## Hi there 👋
 
 # I'm Kiran Kumar V!
@@ -45,7 +47,7 @@
 
 ### ⚡ Fun fact:
 - I once optimized a website's SEO, and it went from **page 10** of Google to **page 1** in just two weeks! 🚀
-  
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirankumarvel&show_icons=true&theme=radical)
 
@@ -104,3 +106,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub license](https://img.shields.io/github/license/Kirankumarvel/seo-python-automation)
+```
