@@ -1,92 +1,102 @@
+# 👋 Hey there, I'm Kiran Kumar V!
 
-## Hi there 👋
+Welcome to my GitHub! I'm a passionate tech explorer blending development, digital strategy, and content creation to build meaningful solutions.
 
-# I'm Kiran Kumar V!
+---
 
 ## 🚀 About Me
-- 🌐 SEO Consultant, with over 6 years of experience optimizing websites and improving online visibility.
-- 💻 Web3 Enthusiast, passionate about decentralized technologies and blockchain.
 
-### 📫 How to reach me:
-- 📧 Email: [kirankumarvel.work@gmail.com](mailto:kirankumarvel.work@gmail.com)
-- 📱 LinkedIn: [Kiran Kumar V](https://www.linkedin.com/in/kirankumarvel/)
+- 💻 **DevOps & Backend Developer** – I design scalable infrastructure, automate deployments, and optimize cloud performance.
+- 🌱 **Web3 & Blockchain Enthusiast** – Exploring the world of decentralization, smart contracts, and dApps.
+- 🧘‍♂️ **Content Creator** – I share knowledge through YouTube and blogs on meditation, tech, and personal growth.
+- 🌐 **Digital Marketer** – Former SEO Consultant with 6+ years of experience in organic growth and online visibility.
 
-## 🔥 What I Do
-- **SEO & Digital Marketing** – Helping businesses grow through strategic SEO & content marketing.
-- **DevOps on AWS** – Implementing CI/CD pipelines, infrastructure as code, and cloud automation.
-- **Web Development** – Crafting optimized, user-friendly websites with **WordPress, HTML, CSS, and JavaScript**.
-- **Blockchain & Web3** – Exploring smart contracts and decentralized applications.
-- **Content Creation** – Educating audiences about meditation, tech, and personal growth through YouTube & blogs.
+---
 
-## 🛠️ Tech Stack & Tools
-- **DevOps & Cloud:** AWS (EC2, S3, Lambda, CloudFormation), Docker, Kubernetes, Terraform
-- **SEO & Analytics:** Google Analytics, Google Search Console, Ahrefs, SEMrush, Screaming Frog
-- **Web Development:** HTML, CSS, JavaScript, WordPress, React
-- **Blockchain:** Solidity, Smart Contracts, Ethereum, Ganache
-- **Programming Languages:** Python, JavaScript, Solidity
-- **Databases:** MongoDB, MySQL, SQLite
-- **Version Control:** Git
-- **API Testing:** Postman
-- **Operating Systems:** Linux, Windows
+## 📫 Let’s Connect
 
-## 📌 Featured Certifications
-- AWS Cloud Technical Essentials
-- DevOps on AWS (Code, Build, Test | Release, Deploy | Operate, Monitor)
-- Advanced SEO & Content Strategy
+- 📧 Email: [kirankumarvel.work@gmail.com](mailto:kirankumarvel.work@gmail.com)  
+- 💼 LinkedIn: [Kiran Kumar V](https://www.linkedin.com/in/kirankumarvel/)  
+- 🌍 Website: Coming Soon
 
-💡 *"Building, Optimizing, and Automating – One Step at a Time!"* 🚀
+---
 
-### 💬 Ask me about...
-- Anything related to **SEO**, from keyword research to content strategy and analytics.
-- How **Web3** can transform the future of online marketing.
-- SEO strategies for **natural farming** websites (I’m working on a project with **Vaagai Green Farm**🌱).
+## 🔧 Tech Toolbox
 
-### 😄 Pronouns: He/Him
+### 🛠️ Core Technologies
 
-### ⚡ Fun fact:
-- I once optimized a website's SEO, and it went from **page 10** of Google to **page 1** in just two weeks! 🚀
+- **Languages**: Python, JavaScript, Solidity  
+- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap  
+- **Backend**: Node.js  
+- **Database**: MongoDB, MySQL, SQLite, Firebase  
+- **DevOps/Cloud**: AWS (EC2, S3, Lambda, CloudFormation), Docker, Kubernetes, Terraform  
+- **Version Control**: Git  
+- **API Testing**: Postman  
+- **OS**: Linux, Windows  
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirankumarvel&show_icons=true&theme=radical)
+---
 
-## 🌟 Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=kirankumarvel&color=blue)
+## 🌐 Tools & Frameworks (Badges)
 
-## 🛠️ Languages and Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- ![HTML5](https://img.shields.io/badge/HTML5-5E5C5B?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+---
 
-Here are the technologies I use and love:
+## 🎯 Certifications
 
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
-- **Backend**: Node.js
-- **Database**: MongoDB, MySQL, Firebase, SQLite
-- **Version Control**: Git
-- **API Testing**: Postman
-- **Operating System**: Linux, Windows
-- **Languages**: Python, JavaScript, Solidity
+- ✅ AWS Cloud Technical Essentials  
+- ✅ DevOps on AWS (Code | Build | Deploy | Monitor)  
+- ✅ Advanced SEO & Content Strategy
 
-## 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirankumarvel&show_icons=true&theme=radical)
+## 📊 GitHub Stats & Activity
 
-## 👀 Visitors
+| 📈 Stats | 🧠 Languages |
+|--------|-----------|
+| ![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirankumarvel&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirankumarvel&layout=compact&theme=radical&hide_border=true) |
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Kirankumarvel&color=blue)
+![GitHub Streak](https://streak-stats.demolab.com?user=kirankumarvel&theme=radical&hide_border=true)
 
-## 🔥 Top Languages
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kirankumarvel&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirankumarvel&layout=compact&theme=radical)
+---
 
+## 💬 Ask Me About
 
-![GitHub license](https://img.shields.io/github/license/Kirankumarvel/seo-python-automation)
+- Building SEO-rich digital products from scratch  
+- Deploying scalable backend and CI/CD pipelines  
+- Automating workflows using Python and Shell scripting  
+- Exploring the synergy between Web3 & Digital Marketing  
+- SEO strategies for niche sectors like **natural farming** (Project: *Vaagai Green Farm*)
+
+---
+
+## 🧠 Fun Fact
+
+I once helped a website move from **Page 10** to **Page 1** on Google search in just **2 weeks**! 🚀
+
+---
+
+## 🧩 SEO Experience
+
+With over 6 years of SEO consulting experience, I've helped clients build search visibility, generate organic traffic, and improve conversion with structured content and data-backed strategy.
+
+---
+
+**💡 Motto:** *"Building, Optimizing, and Automating – One Step at a Time!"*
+
+---
+
+📌 _Feel free to explore my repositories and reach out for collaborations, internships, or project ideas!_  
