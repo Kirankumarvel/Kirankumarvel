@@ -1,4 +1,3 @@
-
 <!-- PROFILE HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1F8EF1&height=220&section=header&text=Kiran%20Kumar%20V&fontSize=48&fontColor=ffffff" alt="header"/>
@@ -21,10 +20,17 @@
   <a href="mailto:kirankumarvel.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hire%20Me-1F8EF1?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://kirankumarvel.wordpress.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1F8EF1?style=flat-square&logo=wordpress"/>
+  </a>
 </p>
 
 <p align="center">
-  <b>Bengaluru, India · Open to Work 🚀</b>
+  <b>📍 Bengaluru, India · Open to Work 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kirankumarvel&color=1F8EF1&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
@@ -33,13 +39,12 @@
 
 - [👋 Who Am I?](#-who-am-i)
 - [🚀 Core Tech Stack](#-core-tech-stack)
-- [🌟 Flagship Projects](#-flagship-projects)
-- [📊 GitHub Analytics](#-github-analytics)
+- [🌟 Flagship Projects (Live & Deployed)](#-flagship-projects-live--deployed)
+- [📊 GitHub Contributions & Activity](#-github-contributions--activity)
+- [🎯 Currently Working On](#-currently-working-on)
 - [🏅 Certifications & Learning](#-certifications--learning)
 - [🧭 Career Timeline](#-career-timeline)
-- [🎯 What I’m Looking For](#-what-im-looking-for)
 - [📬 Let's Connect](#-lets-connect)
-- [🌟 Areas of Interest](#-areas-of-interest)
 - [✨ Quick Facts](#-quick-facts)
 
 ---
@@ -47,12 +52,12 @@
 # 👋 Who Am I?
 
 > **From campaign optimizer to cloud engineer:**  
-> I’m a **versatile problem solver** with <b>8+ years</b> leading SEO, DevOps, and cloud projects. My journey is about shipping real solutions—**not just learning, but delivering production code**.
+> I’m a **versatile problem solver** with **8+ years** leading SEO, DevOps, and cloud projects. My journey is about shipping real solutions—**not just learning, but delivering production code**.
 
-- 🏆 **Leadership:** Managed a 10-member SEO team at DigiMark Agency, leading automation and strategy.
-- 🛠️ **DevOps & Cloud:** AWS, Docker, CI/CD, Terraform, production deployments and zero-downtime releases.
-- 🧑‍💻 **Automation:** Python scripting, FastAPI backends—love to automate everything possible.
-- 🏅 **AWS Certified:** Pursuing AWS Cloud Practitioner; hands-on EC2, S3, Lambda, CloudWatch.
+- 🏆 **Leadership:** Managed a 10‑member SEO team at DigiMark Agency, driving automation and strategy.
+- 🛠️ **DevOps & Cloud:** AWS, Docker, CI/CD, Terraform, production deployments with zero‑downtime releases.
+- 🧑‍💻 **Automation:** Python scripting, FastAPI backends—I automate everything possible.
+- 🏅 **AWS Certified:** Pursuing AWS Cloud Practitioner; hands‑on with EC2, S3, Lambda, CloudWatch.
 - 📚 **Continuous learner:** MCA in progress (Manipal University), always growing.
 
 ---
@@ -72,7 +77,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>⚙️ DevOps & Tools</b></summary>
 <br>
 <p align="center">
@@ -109,81 +114,104 @@
 
 ---
 
-# 🌟 Flagship Projects
+# 🌟 Flagship Projects (Live & Deployed)
 
-<details>
-<summary><b>🟢 PulseCheck</b> <sup>🚀 Live on EC2</sup></summary>
-<br>
-Automated, zero-touch production deploys: push code → GitHub Actions → Docker → AWS EC2.<br>
-<span> <img src="https://img.shields.io/badge/Status-Live%20on%20EC2-1F8EF1?style=flat-square"/> </span><br>
-<b>→ 90 sec deployment, containerized delivery, & seamless updates.</b><br><br>
-<em>Skills:</em> CI/CD Pipeline • GitHub Actions • Docker • AWS EC2 • Secrets Management
-</details>
+<!-- PulseCheck Repo Card -->
+<a href="https://github.com/Kirankumarvel/PulseCheck">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kirankumarvel&repo=PulseCheck&theme=tokyonight&hide_border=true" alt="PulseCheck Repo Card" width="45%"/>
+</a>
 
-<br>
+### 🟢 **PulseCheck** <sup>🚀 Live on EC2</sup>
+Automated, zero‑touch production deploys: push code → GitHub Actions → Docker → AWS EC2.  
+<span> <img src="https://img.shields.io/badge/Status-Live%20on%20EC2-1F8EF1?style=flat-square"/> </span>
+<span> <img src="https://img.shields.io/badge/Deploy-90s-brightgreen?style=flat-square"/> </span>
+<a href="https://your-pulsecheck-demo.com"> <img src="https://img.shields.io/badge/Live_Demo-🌐-1F8EF1?style=flat-square"/> </a>  
 
-<details>
-<summary><b>🌏 S3 Static Website + CloudFront CDN</b></summary>
-<br>
-Enterprise-grade, globally distributed static sites for <b>$0/month</b>.<br>
+**Skills:** CI/CD Pipeline • GitHub Actions • Docker • AWS EC2 • Secrets Management
+
+<br clear="right"/>
+
+<!-- S3 Static Website Repo Card -->
+<a href="https://github.com/Kirankumarvel/static-site-s3">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kirankumarvel&repo=static-site-s3&theme=tokyonight&hide_border=true" alt="S3 Static Site Repo Card" width="45%"/>
+</a>
+
+### 🌏 **S3 Static Website + CloudFront CDN**
+Enterprise‑grade, globally distributed static sites for **$0/month**.  
 <span> <img src="https://img.shields.io/badge/Performance-98%2F100-1F8EF1?style=flat-square"/> </span>
-<span> <img src="https://img.shields.io/badge/Cost-$0%2Fmonth-1F8EF1?style=flat-square"/> </span><br><br>
-<em>Skills:</em> AWS S3 • CloudFront • Terraform • IAM Security • Serverless Optimization
-</details>
+<span> <img src="https://img.shields.io/badge/Cost-$0%2Fmonth-1F8EF1?style=flat-square"/> </span>
+<a href="https://your-site.cloudfront.net"> <img src="https://img.shields.io/badge/Live_Demo-🌐-1F8EF1?style=flat-square"/> </a>  
 
-<br>
+**Skills:** AWS S3 • CloudFront • Terraform • IAM Security • Serverless Optimization
 
-<details>
-<summary><b>⛓️ VoteChain</b> — Blockchain Voting (MCA Final Project)</summary>
-<br>
-Decentralized, tamper-proof voting using <b>Solidity</b> smart contracts, <b>React</b> frontend, <b>FastAPI</b> backend.<br><br>
-<em>Skills:</em> Ethereum Dev • Blockchain Security • Full-Stack DApp • Secure Auth
-</details>
+<br clear="right"/>
 
-<br>
+<!-- VoteChain Repo Card -->
+<a href="https://github.com/Kirankumarvel/VoteChain">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kirankumarvel&repo=VoteChain&theme=tokyonight&hide_border=true" alt="VoteChain Repo Card" width="45%"/>
+</a>
 
-<details>
-<summary><b>📈 BlueSkyMonitor</b> — Cloud Monitoring Automation</summary>
-<br>
-Real-time system health checks, AWS CloudWatch integration, alerting, and dashboarding.<br><br>
-<em>Skills:</em> Python • Streamlit • Boto3 • CloudWatch API • SRE Practices
-</details>
+### ⛓️ **VoteChain** — Blockchain Voting (MCA Final Project)
+Decentralized, tamper‑proof voting using **Solidity** smart contracts, **React** frontend, **FastAPI** backend.  
+<a href="https://github.com/Kirankumarvel/VoteChain"> <img src="https://img.shields.io/badge/Source_Code-📂-1F8EF1?style=flat-square"/> </a>  
 
-<br>
+**Skills:** Ethereum Dev • Blockchain Security • Full‑Stack DApp • Secure Auth
 
-<details>
-<summary><b>💸 FinTrack</b> — Personal Finance Automation</summary>
-<br>
-ETL pipelines, analytics, and custom dashboards for finance automation.<br><br>
-<em>Skills:</em> Python • Pandas • Data Engineering • Streamlit
-</details>
+<br clear="right"/>
+
+> **More projects:** BlueSkyMonitor (monitoring automation) and FinTrack (finance ETL) are pinned below.  
+> *All repositories are actively maintained and represent real production‑grade work.*
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Contributions & Activity
 
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirankumarvel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirankumarvel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=kirankumarvel&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirankumarvel&theme=react-dark&hide_border=true&area=true&color=1F8EF1&line=1F8EF1&point=FFFFFF" alt="Contribution Graph"/>
 </p>
+
+<!-- Combined Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirankumarvel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirankumarvel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%"/>
+</p>
+
+<!-- Streak & Recent Activity -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kirankumarvel&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirankumarvel&theme=tokyonight" alt="Profile Details" width="80%"/>
+</p>
+
+---
+
+# 🎯 Currently Working On
+
+- 🔄 **AWS Cloud Practitioner (CLF-C02)** – final prep, exam scheduled June 2025  
+  ![Progress](https://progress-bar.dev/85?title=progress&width=120&color=1F8EF1&suffix=%)
+- 🧪 **PulseCheck v2** – adding Canary deployments & monitoring dashboards  
+  ![Progress](https://progress-bar.dev/60?title=progress&width=120&color=1F8EF1&suffix=%)
+- 🧠 **MCA Capstone** – Blockchain Voting (VoteChain) final report & defense  
+  ![Progress](https://progress-bar.dev/90?title=progress&width=120&color=1F8EF1&suffix=%)
+- ✍️ **Technical Blog** – launching posts on real‑world DevOps & cloud automation *(coming soon)*
 
 ---
 
 # 🏅 Certifications & Learning
 
-| Status | Credential | Issuer | Target / Completion |
-|--------|:-----------|:------:|:-------------------:|
-| 🔄 **In Progress** | <b>AWS Certified Cloud Practitioner</b> (CLF-C02) | AWS | June 2025 |
-| ✅ **Completed** | AWS Cloud Technical Essentials | AWS/Coursera | 2024 |
-| ✅ **Completed** | DevOps on AWS Specialization | AWS/Coursera | 2024 |
-| ✅ **Completed** | Python for Everybody | Univ. of Michigan | 2023 |
-| ✅ **Completed** | Git, Terraform & Jenkins Mastery | KodeKloud | 2024 |
-| ✅ **Completed** | Red Hat Linux & Cloud-Native Dev | Red Hat Academy | 2023 |
-| ✅ **Completed** | IBM Machine Learning with Python | IBM/Coursera | 2023 |
+| Status | Credential | Issuer | Verification |
+|--------|:-----------|:------:|:------------:|
+| 🔄 **In Progress** | <b>AWS Certified Cloud Practitioner</b> (CLF-C02) | AWS | Target June 2025 |
+| ✅ **Completed** | AWS Cloud Technical Essentials | AWS/Coursera | [Credly](#) |
+| ✅ **Completed** | DevOps on AWS Specialization | AWS/Coursera | [Credly](#) |
+| ✅ **Completed** | Python for Everybody | Univ. of Michigan | [Coursera](#) |
+| ✅ **Completed** | Git, Terraform & Jenkins Mastery | KodeKloud | [Certificate](#) |
+| ✅ **Completed** | Red Hat Linux & Cloud‑Native Dev | Red Hat Academy | [Badge](#) |
+| ✅ **Completed** | IBM Machine Learning with Python | IBM/Coursera | [Coursera](#) |
 | 🎓 **In Progress** | Master of Computer Applications (MCA) | Manipal University | May 2025 |
+
+> *All links can be replaced with real Credly/Coursera verification URLs for full transparency.*
 
 ---
 
@@ -203,27 +231,6 @@ gantt
 ```
 
 This wasn’t a pivot—it was a planned journey toward DevOps and reliability engineering.
-
----
-
-🎯 What I’m Looking For
-
-Best Fit:
-
-· Junior DevOps Engineer
-· Cloud Infrastructure Engineer
-· Associate SRE
-· AWS/Cloud Specialist
-
-What I Offer:
-
-· 🏗️ CI/CD Pipelines (production-grade)
-· 🚀 Infrastructure as Code (Terraform, CloudFormation)
-· ☁️ AWS hands-on (EC2, S3, Lambda, RDS, CloudWatch)
-· 🐳 Docker, containers, Kubernetes concepts
-· 🐍 Python scripting for automation
-· 🫱‍🲲 Team leadership & docs-first communication
-· 🧩 Problem-solver, production mindset
 
 ---
 
@@ -248,16 +255,6 @@ What I Offer:
 
 ---
 
-🌟 Areas of Interest
-
-· 🔐 Security/Compliance: IAM, secrets management, zero-trust architecture
-· 📈 Observability: Logging, monitoring, alerting (CloudWatch, Prometheus, ELK stack)
-· 🔄 Automation: Infra-as-code (Terraform, Ansible), CI/CD
-· 🌎 Scalability: Distributed systems, load balancing, orchestration
-· 📊 Data Pipelines: ETL, automation, analytics
-
----
-
 ✨ Quick Facts
 
 <table align="center">
@@ -279,9 +276,5 @@ What I Offer:
   <b>⭐ Found my work helpful? Leave a star & let’s connect!</b>
 </p>
 <p align="center">
-  <sub>Last Updated: May 31, 2026 · Maintained with the discipline I bring to production infrastructure.</sub>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kirankumarvel&color=1F8EF1&style=flat-square" alt="Profile views"/>
+  <sub>Last Updated: June 2026 · Maintained with the discipline I bring to production infrastructure.</sub>
 </p>
