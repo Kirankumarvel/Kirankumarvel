@@ -1,3 +1,4 @@
+
 <!-- PROFILE HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1F8EF1&height=220&section=header&text=Kiran%20Kumar%20V&fontSize=48&fontColor=ffffff" alt="header"/>
@@ -28,6 +29,21 @@
 
 ---
 
+## 📖 Table of Contents
+
+- [👋 Who Am I?](#-who-am-i)
+- [🚀 Core Tech Stack](#-core-tech-stack)
+- [🌟 Flagship Projects](#-flagship-projects)
+- [📊 GitHub Analytics](#-github-analytics)
+- [🏅 Certifications & Learning](#-certifications--learning)
+- [🧭 Career Timeline](#-career-timeline)
+- [🎯 What I’m Looking For](#-what-im-looking-for)
+- [📬 Let's Connect](#-lets-connect)
+- [🌟 Areas of Interest](#-areas-of-interest)
+- [✨ Quick Facts](#-quick-facts)
+
+---
+
 # 👋 Who Am I?
 
 > **From campaign optimizer to cloud engineer:**  
@@ -43,13 +59,10 @@
 
 # 🚀 Core Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## ☁️ Cloud & Infrastructure
-
-<p>
+<details open>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<br>
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
@@ -57,10 +70,12 @@
   <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
+</details>
 
-## ⚙️ DevOps & Tools
-
-<p>
+<details>
+<summary><b>⚙️ DevOps & Tools</b></summary>
+<br>
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
@@ -68,71 +83,80 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
+</details>
 
-</td>
-<td width="50%" valign="top">
-
-## 🐍 Backend & Languages
-
-<p>
+<details>
+<summary><b>🐍 Backend & Languages</b></summary>
+<br>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
+</details>
 
-## 🗂️ Databases
-
-<p>
+<details>
+<summary><b>🗂️ Databases</b></summary>
+<br>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
 # 🌟 Flagship Projects
 
-## 🟢 **PulseCheck** <sup>🚀 Live on EC2</sup>
-Automated, zero-touch production deploys: push code → GitHub Actions → Docker → AWS EC2.  
-<span> <img src="https://img.shields.io/badge/Status-Live%20on%20EC2-1F8EF1?style=flat-square"/> </span>  
-**→ 90 sec deployment, containerized delivery, & seamless updates.**
+<details>
+<summary><b>🟢 PulseCheck</b> <sup>🚀 Live on EC2</sup></summary>
+<br>
+Automated, zero-touch production deploys: push code → GitHub Actions → Docker → AWS EC2.<br>
+<span> <img src="https://img.shields.io/badge/Status-Live%20on%20EC2-1F8EF1?style=flat-square"/> </span><br>
+<b>→ 90 sec deployment, containerized delivery, & seamless updates.</b><br><br>
+<em>Skills:</em> CI/CD Pipeline • GitHub Actions • Docker • AWS EC2 • Secrets Management
+</details>
 
-**Skills**: CI/CD Pipeline • GitHub Actions • Docker • AWS EC2 • Secrets Management
+<br>
 
----
-
-## 🌏 **S3 Static Website + CloudFront CDN**
-Enterprise-grade, globally distributed static sites for **$0/month**.
+<details>
+<summary><b>🌏 S3 Static Website + CloudFront CDN</b></summary>
+<br>
+Enterprise-grade, globally distributed static sites for <b>$0/month</b>.<br>
 <span> <img src="https://img.shields.io/badge/Performance-98%2F100-1F8EF1?style=flat-square"/> </span>
-<span> <img src="https://img.shields.io/badge/Cost-$0%2Fmonth-1F8EF1?style=flat-square"/> </span>
+<span> <img src="https://img.shields.io/badge/Cost-$0%2Fmonth-1F8EF1?style=flat-square"/> </span><br><br>
+<em>Skills:</em> AWS S3 • CloudFront • Terraform • IAM Security • Serverless Optimization
+</details>
 
-**Skills**: AWS S3 • CloudFront • Terraform • IAM Security • Serverless Optimization
+<br>
 
----
+<details>
+<summary><b>⛓️ VoteChain</b> — Blockchain Voting (MCA Final Project)</summary>
+<br>
+Decentralized, tamper-proof voting using <b>Solidity</b> smart contracts, <b>React</b> frontend, <b>FastAPI</b> backend.<br><br>
+<em>Skills:</em> Ethereum Dev • Blockchain Security • Full-Stack DApp • Secure Auth
+</details>
 
-## ⛓️ **VoteChain** — Blockchain Voting (MCA Final Project)
-Decentralized, tamper-proof voting using **Solidity** smart contracts, **React** frontend, **FastAPI** backend.
+<br>
 
-**Skills:** Ethereum Dev • Blockchain Security • Full-Stack DApp • Secure Auth
+<details>
+<summary><b>📈 BlueSkyMonitor</b> — Cloud Monitoring Automation</summary>
+<br>
+Real-time system health checks, AWS CloudWatch integration, alerting, and dashboarding.<br><br>
+<em>Skills:</em> Python • Streamlit • Boto3 • CloudWatch API • SRE Practices
+</details>
 
----
+<br>
 
-## 📈 **BlueSkyMonitor** — Cloud Monitoring Automation
-Real-time system health checks, AWS CloudWatch integration, alerting, and dashboarding.
-
-**Skills:** Python • Streamlit • Boto3 • CloudWatch API • SRE Practices
-
----
-
-## 💸 **FinTrack** — Personal Finance Automation
-ETL pipelines, analytics, and custom dashboards for finance automation.
-
-**Skills:** Python • Pandas • Data Engineering • Streamlit
+<details>
+<summary><b>💸 FinTrack</b> — Personal Finance Automation</summary>
+<br>
+ETL pipelines, analytics, and custom dashboards for finance automation.<br><br>
+<em>Skills:</em> Python • Pandas • Data Engineering • Streamlit
+</details>
 
 ---
 
@@ -150,8 +174,8 @@ ETL pipelines, analytics, and custom dashboards for finance automation.
 
 # 🏅 Certifications & Learning
 
-| Status | Credential | Issuer | Target Date |
-|--------|:-----------|:------:|:----------:|
+| Status | Credential | Issuer | Target / Completion |
+|--------|:-----------|:------:|:-------------------:|
 | 🔄 **In Progress** | <b>AWS Certified Cloud Practitioner</b> (CLF-C02) | AWS | June 2025 |
 | ✅ **Completed** | AWS Cloud Technical Essentials | AWS/Coursera | 2024 |
 | ✅ **Completed** | DevOps on AWS Specialization | AWS/Coursera | 2024 |
@@ -165,44 +189,45 @@ ETL pipelines, analytics, and custom dashboards for finance automation.
 
 # 🧭 Career Timeline
 
-```
-2018 ─── SEO Analyst
-         ↳ Data analysis, reporting automation, campaign optimization
-2019 ─── Digital Marketing Specialist  
-         ↳ Cross-team collaboration, process documentation
-2022 ─── Senior SEO Manager (DigiMark Agency)
-         ↳ Led 10-member team, Python automation, reliability
-2023 ─── MCA Enrollment + DevOps Transition
-         ↳ Cloud architecture, CS foundations, infra-as-code
-2024 ─── AWS, Docker, CI/CD; Building real pipelines
-2025 ─── MCA Graduate + AWS DevOps Engineer Target
-         ↳ Ready for DevOps/Cloud roles
+```mermaid
+gantt
+    title Career Progression
+    dateFormat  YYYY-MM
+    axisFormat  %b %Y
+    section Roles
+    SEO Analyst           :done, 2018-01, 2019-06
+    Digital Marketing Specialist :done, 2019-07, 2022-02
+    Senior SEO Manager     :done, 2022-03, 2023-06
+    MCA + DevOps Transition :active, 2023-07, 2025-05
+    Cloud/DevOps Engineer Target : 2025-06, 2026-12
 ```
 
-> **This wasn’t a pivot—**it was a planned journey toward DevOps and reliability engineering.
+This wasn’t a pivot—it was a planned journey toward DevOps and reliability engineering.
 
 ---
 
-# 🎯 What I’m Looking For
+🎯 What I’m Looking For
 
-**Best Fit:**  
-- Junior DevOps Engineer  
-- Cloud Infrastructure Engineer  
-- Associate SRE  
-- AWS/Cloud Specialist
+Best Fit:
 
-**What I Offer:**
-- 🏗️ CI/CD Pipelines (production-grade)
-- 🚀 Infrastructure as Code (Terraform, CloudFormation)
-- ☁️ AWS hands-on (EC2, S3, Lambda, RDS, CloudWatch)
-- 🐳 Docker, containers, Kubernetes concepts
-- 🐍 Python scripting for automation
-- 🫱‍🫲 Team leadership & docs-first communication
-- 🧩 Problem-solver, production mindset
+· Junior DevOps Engineer
+· Cloud Infrastructure Engineer
+· Associate SRE
+· AWS/Cloud Specialist
+
+What I Offer:
+
+· 🏗️ CI/CD Pipelines (production-grade)
+· 🚀 Infrastructure as Code (Terraform, CloudFormation)
+· ☁️ AWS hands-on (EC2, S3, Lambda, RDS, CloudWatch)
+· 🐳 Docker, containers, Kubernetes concepts
+· 🐍 Python scripting for automation
+· 🫱‍🲲 Team leadership & docs-first communication
+· 🧩 Problem-solver, production mindset
 
 ---
 
-# 📬 Let's Connect
+📬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kirankumarvel/">
@@ -223,19 +248,19 @@ ETL pipelines, analytics, and custom dashboards for finance automation.
 
 ---
 
-# 🌟 Areas of Interest
+🌟 Areas of Interest
 
-- 🔐 **Security/Compliance:** IAM, secrets management, zero-trust architecture
-- 📈 **Observability:** Logging, monitoring, alerting (CloudWatch, Prometheus, ELK stack)
-- 🔄 **Automation:** Infra-as-code (Terraform, Ansible), CI/CD
-- 🌎 **Scalability:** Distributed systems, load balancing, orchestration
-- 📊 **Data Pipelines:** ETL, automation, analytics
+· 🔐 Security/Compliance: IAM, secrets management, zero-trust architecture
+· 📈 Observability: Logging, monitoring, alerting (CloudWatch, Prometheus, ELK stack)
+· 🔄 Automation: Infra-as-code (Terraform, Ansible), CI/CD
+· 🌎 Scalability: Distributed systems, load balancing, orchestration
+· 📊 Data Pipelines: ETL, automation, analytics
 
 ---
 
-# ✨ Quick Facts
+✨ Quick Facts
 
-<table>
+<table align="center">
 <tr>
 <td align="center"><b>8+</b><br/>Years Experience</td>
 <td align="center"><b>10</b><br/>Team Members Led</td>
@@ -253,4 +278,10 @@ ETL pipelines, analytics, and custom dashboards for finance automation.
   🚀 <i>“Building resilient systems. Shipping production code. One commit at a time.”</i><br>
   <b>⭐ Found my work helpful? Leave a star & let’s connect!</b>
 </p>
-<p align="center"><sub>Last Updated: May 31, 2026 · Maintained with the discipline I bring to production infrastructure.</sub></p>
+<p align="center">
+  <sub>Last Updated: May 31, 2026 · Maintained with the discipline I bring to production infrastructure.</sub>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kirankumarvel&color=1F8EF1&style=flat-square" alt="Profile views"/>
+</p>
